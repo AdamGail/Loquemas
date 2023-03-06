@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Loquemas
-- 👀 I’m interested in SQL, Python, Grafana and Tableau
+- 👋 Hi, I’m @AdamGail
+- 👀 I’m interested in Go, SQL, Python, Grafana and Tableau
 - 🌱 I’m currently learning SQL, Tableau and Python
 
 <!---
